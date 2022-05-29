@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">checkboxes</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="checkbox3">CheckBox</string>
+</resources>
